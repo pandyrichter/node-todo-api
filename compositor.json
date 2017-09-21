@@ -98,6 +98,10 @@
         {
           "href": "https://npmjs.com/package/node-todo-api",
           "text": "npm"
+        },
+        {
+          "href": "https://www.apple.com",
+          "text": "Apple"
         }
       ]
     },
